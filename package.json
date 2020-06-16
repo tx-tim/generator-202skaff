@@ -1,0 +1,11 @@
+{
+  "name": "generator-skaffold",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
